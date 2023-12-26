@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\liste_class\liste_class\bin\Debug\liste_class.exe.config
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\liste_class\liste_class\bin\Debug\liste_class.exe
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\liste_class\liste_class\bin\Debug\liste_class.pdb
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\liste_class\liste_class\obj\Debug\liste_class.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\liste_class\liste_class\obj\Debug\liste_class.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\liste_class\liste_class\obj\Debug\liste_class.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\liste_class\liste_class\obj\Debug\liste_class.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\liste_class\liste_class\obj\Debug\liste_class.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\liste_class\liste_class\obj\Debug\liste_class.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\liste_class\liste_class\obj\Debug\liste_class.exe
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\liste_class\liste_class\obj\Debug\liste_class.pdb

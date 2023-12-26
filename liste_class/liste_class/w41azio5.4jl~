@@ -1,0 +1,44 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace liste_class
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        OgenciKayit ogrenci;
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            List<OgenciKayit> ogrenciliste = new List<OgenciKayit> ();
+
+            ogrenciliste.Add(new OgenciKayit(6, "Beyzanur Tanyeli", "10A", "kız", "0552574374"));
+            ogrenciliste.Add(new OgenciKayit(1550, "İlayda Daban", "10A", "kız", "05525657374"));
+            ogrenciliste.Add(new OgenciKayit(33, "Melek Erisgin", "10A", "kız", "05525732474"));
+            ogrenciliste.Add(new OgenciKayit(273, "Dilan Kaya", "10A", "kız", "05525678374"));
+            ogrenciliste.Add(new OgenciKayit(230, "Merve Bozkurt", "10A", "kız", "0559988574"));
+            ogrenciliste.Add(new OgenciKayit(384, "Leyla Senol", "9B", "kız", "05576784374"));
+            ogrenciliste.Add(new OgenciKayit(777, "Melisa Tugtekin", "11A", "kız", "0552574374"));
+            ogrenciliste.Add(new OgenciKayit(1234, "kemal yıldız", "9C", "Erkek", "0552508074"));
+            ogrenciliste.Add(new OgenciKayit(36, "Mirac güney", "10A", "Erkek", "0555673456774"));
+            ogrenciliste.Add(new OgenciKayit(90, "samet Gülsoy", "12A", "Erkek", "0552574374"));
+
+        }
+    }
+}

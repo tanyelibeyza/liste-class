@@ -1,0 +1,32 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace liste_class
+{
+    internal class OgenciKayit
+    {
+        int numara;
+        string adsoyad;
+        string sinif;
+        string telefon;
+        string cinsiyet;
+
+        public int Numara { get => numara; set => numara = value; }
+        public string Adsoyad { get => adsoyad; set => adsoyad = value; }
+        public string Sinif { get => sinif; set => sinif = value; }
+        public string Telefon { get => telefon; set => telefon = value; }
+        public string Cinsiyet { get => cinsiyet; set => cinsiyet = value; }
+
+        public OgenciKayit(int numara, string adsoyad, string sinif, string telefon, string cinsiyet)
+        {
+            this.numara = numara;
+            this.adsoyad = adsoyad;
+            this.sinif = sinif;
+            this.telefon = telefon;
+            this.cinsiyet = cinsiyet;
+        }
+    }
+}
